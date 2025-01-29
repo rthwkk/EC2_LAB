@@ -1,2 +1,2 @@
 # EC2_LAb
-hi hello
+Python file to calculate the frequency response of op-amp circuits and plot it
